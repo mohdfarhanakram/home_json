@@ -28,6 +28,98 @@
           "deeplink": "pdf/https://ucsmartapp.unioncoop.ae/data/promotions/notice 23-4-2020-A4.pdf"
         }
       ]
+    },
+    {
+      "type": 2,
+      "title": "Shop Category",
+      "viewMore": "gagga",
+      "widgetData": [
+        {
+          "deeplink": "2767",
+          "name": "Baby Care",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_baby_care_UNION_COOP_SUBCATEGORY.jpg"
+        },
+        {
+          "deeplink": "2770",
+          "name": "Bread & Bakery",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/bakery-online-Dubai.jpg"
+        },
+        {
+          "deeplink": "2765",
+          "name": "Breakfast, Cereal & Pasta",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_breakfast_UNION_COOP_SUBCATEGORY.jpg"
+        },
+        {
+          "deeplink": "2771",
+          "name": "Butchery & Seafood",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/chicken-meat-fish-online.jpg"
+        },
+        {
+          "deeplink": "2768",
+          "name": "Cleaning & Homecare",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/cleaning-homecare-online-dubai.jpg"
+        },
+        {
+          "deeplink": "2783",
+          "name": "Cooking and Baking",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_maggie_teads_UNION_COOP_SUBCATEGORY.jpg"
+        },
+        {
+          "deeplink": "2772",
+          "name": "Frozen & Chilled Food",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/frozen-online-dubai.jpg"
+        },
+        {
+          "deeplink": "2757",
+          "name": "Fruits and Vegetables",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Fruits-and-Vegetables-Dubai-Online.jpg"
+        },
+        {
+          "deeplink": "2773",
+          "name": "Canned, Jarred & Packaged",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Cans-Jars-870x422.jpg"
+        },
+        {
+          "deeplink": "2774",
+          "name": "Condiments & Seasonings",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Condiments-Seasonings.jpg"
+        },
+        {
+          "deeplink": "2763",
+          "name": "Coffee & Tea",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_nescafe_UNION_COOP_SUBCATEGORY.jpg"
+        },
+        {
+          "deeplink": "2755",
+          "name": "Chocolate & Snacks",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_kitkat_UNION_COOP_SUBCATEGORY.jpg"
+        },
+        {
+          "deeplink": "2762",
+          "name": "Dairy, Eggs & Cheese",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_SCM_UNION_COOP_SUBCATEGORY.jpg"
+        },
+        {
+          "deeplink": "2766",
+          "name": "Grains, Rice & Oil",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/grain-rice-oil.jpg"
+        },
+        {
+          "deeplink": "2785",
+          "name": "Organic Food",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/organic-items-online-dubai.jpg"
+        },
+        {
+          "deeplink": "2782",
+          "name": "Union Products",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/union-products-870-422.jpg"
+        },
+        {
+          "deeplink": "2754",
+          "name": "Water, Juices & Soft Drinks",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/water-juice-870-422.jpg"
+        }
+      ]
     }
   ]
 }
