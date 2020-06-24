@@ -63,17 +63,15 @@
           "deeplink": "items/2783",
           "name": "Cooking and Baking",
           "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_maggie_teads_UNION_COOP_SUBCATEGORY.jpg"
-        },
-        {
-          "deeplink": "items/2772",
-          "name": "Frozen & Chilled Food",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/frozen-online-dubai.jpg"
-        },
-        {
-          "deeplink": "items/2757",
-          "name": "Fruits and Vegetables",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Fruits-and-Vegetables-Dubai-Online.jpg"
-        },
+        }
+      ]
+    },
+    {
+      "type": 2,
+      "title": "Shop Category",
+      "viewMore": "gagga",
+      "widgetData": [
+        
         {
           "deeplink": "items/2773",
           "name": "Canned, Jarred & Packaged",
@@ -488,12 +486,14 @@
           "deeplink": "items/2757",
           "name": "Fruits and Vegetables",
           "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Fruits-and-Vegetables-Dubai-Online.jpg"
-        },
-        {
-          "deeplink": "items/2773",
-          "name": "Canned, Jarred & Packaged",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Cans-Jars-870x422.jpg"
-        },
+        }
+      ]
+    },
+    {
+      "type": 6,
+      "title": "Top Recommended Category",
+      "viewMore": "gagga",
+      "widgetData": [
         {
           "deeplink": "items/2774",
           "name": "Condiments & Seasonings",
