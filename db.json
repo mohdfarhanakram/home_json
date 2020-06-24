@@ -491,8 +491,8 @@
     },
     {
       "type": 6,
-      "title": "Top Recommended Category",
-      "viewMore": "gagga",
+      "title": "Top Category",
+      "viewMore": "",
       "widgetData": [
         {
           "deeplink": "items/2774",
