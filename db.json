@@ -602,6 +602,33 @@
           "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/water-juice-870-422.jpg"
         }
       ]
+    },
+    {
+      "type": 1,
+      "title": "",
+      "viewMore": "",
+      "widgetData": [
+        {
+          "image": "https://ucsmartapp.unioncoop.ae//data/promotions/Mobile-banner-AlBadaa--Eng.jpg",
+          "deeplink": "pdf/https://ucsmartapp.unioncoop.ae/data/promotions/AlBadaa--Eng.pdf"
+        },
+        {
+          "image": "https://ucsmartapp.unioncoop.ae//data/promotions/Mobile-banner-AlBadaa--Ar.jpg",
+          "deeplink": "pdf/https://ucsmartapp.unioncoop.ae/data/promotions/AlBadaa--Ar.pdf"
+        },
+        {
+          "image": "https://ucsmartapp.unioncoop.ae//data/promotions/Mobile-App-Banner2--HD--16.jpg",
+          "deeplink": "pdf/https://ucsmartapp.unioncoop.ae/data/promotions/HD16-2020-compressed.pdf"
+        },
+        {
+          "image": "https://ucsmartapp.unioncoop.ae//data/promotions/Mobile-App-Banner-1-Drive-Thru-29-4-2020.jpg",
+          "deeplink": "pdf/https://ucsmartapp.unioncoop.ae/data/promotions/Drive-Through-Flyer5-2020.pdf"
+        },
+        {
+          "image": "https://ucsmartapp.unioncoop.ae//data/promotions/notice-23-4-2020-mob.jpg",
+          "deeplink": "pdf/https://ucsmartapp.unioncoop.ae/data/promotions/notice 23-4-2020-A4.pdf"
+        }
+      ]
     }
   ]
 }
