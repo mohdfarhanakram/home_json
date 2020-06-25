@@ -628,6 +628,100 @@
           "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/water-juice-870-422.jpg"
         }
       ]
+    },
+    {
+      "type": 8,
+      "title": "Recommended Category",
+      "viewMore": "gagga",
+      "widgetData": [
+        {
+          "deeplink": "items/2767",
+          "name": "Baby Care",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_baby_care_UNION_COOP_SUBCATEGORY.jpg"
+        },
+        {
+          "deeplink": "items/2770",
+          "name": "Bread & Bakery",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/bakery-online-Dubai.jpg"
+        },
+        {
+          "deeplink": "items/2765",
+          "name": "Breakfast, Cereal & Pasta",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_breakfast_UNION_COOP_SUBCATEGORY.jpg"
+        },
+        {
+          "deeplink": "items/2771",
+          "name": "Butchery & Seafood",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/chicken-meat-fish-online.jpg"
+        },
+        {
+          "deeplink": "items/2768",
+          "name": "Cleaning & Homecare",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/cleaning-homecare-online-dubai.jpg"
+        },
+        {
+          "deeplink": "items/2783",
+          "name": "Cooking and Baking",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_maggie_teads_UNION_COOP_SUBCATEGORY.jpg"
+        },
+        {
+          "deeplink": "items/2772",
+          "name": "Frozen & Chilled Food",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/frozen-online-dubai.jpg"
+        },
+        {
+          "deeplink": "items/2757",
+          "name": "Fruits and Vegetables",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Fruits-and-Vegetables-Dubai-Online.jpg"
+        }
+      ]
+    },
+    {
+      "type": 9,
+      "title": "Category",
+      "viewMore": "",
+      "widgetData": [
+        {
+          "deeplink": "items/2767",
+          "name": "Baby Care",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_baby_care_UNION_COOP_SUBCATEGORY.jpg"
+        },
+        {
+          "deeplink": "items/2770",
+          "name": "Bread & Bakery",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/bakery-online-Dubai.jpg"
+        },
+        {
+          "deeplink": "items/2765",
+          "name": "Breakfast, Cereal & Pasta",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_breakfast_UNION_COOP_SUBCATEGORY.jpg"
+        },
+        {
+          "deeplink": "items/2771",
+          "name": "Butchery & Seafood",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/chicken-meat-fish-online.jpg"
+        },
+        {
+          "deeplink": "items/2768",
+          "name": "Cleaning & Homecare",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/cleaning-homecare-online-dubai.jpg"
+        },
+        {
+          "deeplink": "items/2783",
+          "name": "Cooking and Baking",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_maggie_teads_UNION_COOP_SUBCATEGORY.jpg"
+        },
+        {
+          "deeplink": "items/2772",
+          "name": "Frozen & Chilled Food",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/frozen-online-dubai.jpg"
+        },
+        {
+          "deeplink": "items/2757",
+          "name": "Fruits and Vegetables",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Fruits-and-Vegetables-Dubai-Online.jpg"
+        }
+      ]
     }
   ]
 }
