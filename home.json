@@ -54,6 +54,7 @@
     },
     {
       "type": 4,
+      "title": "Services",
       "widgetData": [
         {
           "deeplink": "service/1",
