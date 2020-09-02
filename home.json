@@ -164,14 +164,7 @@
       "type": "8",
       "title": "Mall Store",
       "widgetData": [
-        {
-          "deeplink": "store/3268",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Banner-Katrina-Sweets-app.jpg"
-        },
-        {
-          "deeplink": "store/3264",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/mobile-banner.jpg"
-        },
+        
         {
           "deeplink": "store/3263",
           "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/New-Arrival-online-dubai.jpg"
@@ -227,10 +220,6 @@
         {
           "deeplink": "store/77",
           "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Luggage-_-Trolley.jpg"
-        },
-        {
-          "deeplink": "store/76",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/kids-toys-33.jpg"
         }
       ]
     },
