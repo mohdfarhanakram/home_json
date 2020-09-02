@@ -196,30 +196,6 @@
         {
           "deeplink": "store/2778",
           "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Fashion.jpg"
-        },
-        {
-          "deeplink": "store/2777",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Kitchen.jpg"
-        },
-        {
-          "deeplink": "store/2776",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Sports-_-Fitness.jpg"
-        },
-        {
-          "deeplink": "store/2775",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Office-Supplies-_-Stationery.jpg"
-        },
-        {
-          "deeplink": "store/2769",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Health-_-Beauty.jpg"
-        },
-        {
-          "deeplink": "store/2764",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Pet-Shop.jpg"
-        },
-        {
-          "deeplink": "store/77",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Luggage-_-Trolley.jpg"
         }
       ]
     },
