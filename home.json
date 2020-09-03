@@ -348,8 +348,8 @@
     },
     {
       "type": 10,
-      "title": "Reipes",
-      "viewMore": "",
+      "title": "Recipes",
+      "viewMore": "View all",
       "widgetData": [
         {
           "deeplink": "recipe/5",
