@@ -161,10 +161,9 @@
       ]
     },
     {
-      "type": "8",
+      "type": 8,
       "title": "Mall Store",
       "widgetData": [
-        
         {
           "deeplink": "store/3263",
           "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/New-Arrival-online-dubai.jpg"
@@ -339,7 +338,7 @@
       ]
     },
     {
-      "type": 2,
+      "type": 13,
       "widgetData": [
         {
           "image": "https://ucsmartapp.unioncoop.ae//data/promotions/Mobile-banner-AlBadaa--Eng.jpg",
