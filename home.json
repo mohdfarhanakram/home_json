@@ -211,14 +211,17 @@
           "normal_price": "18.00",
           "special_price": "0.00",
           "tamayaz_price": "0.00",
-          "packing": null,
+          "packing": "100ml",
           "is_manage_stock": false,
           "short_description": "All prices are including VATThis item is Non-Cancelable &amp; Non-Returnable.",
           "is_favourite": "0",
           "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/product\/cache\/1\/thumbnail\/450x450\/9df78eab33525d08d6e5fb8d27136e95\/f\/r\/fresh-tilapia-fish_front.jpg",
           "udstr4": "W",
           "selling_unit": "KG",
-          "available_stock": true
+          "available_stock": true,
+          "show_cart_btn": true,
+          "offer_text": "30%off",
+          "rating": "3.6"
         },
         {
           "pro_id": "25409",
@@ -228,13 +231,16 @@
           "normal_price": "52.00",
           "special_price": "0.00",
           "tamayaz_price": "0.00",
-          "packing": null,
+          "packing": "1x1",
           "short_description": "All prices are including VATThis item is Non-Cancelable &amp; Non-Returnable.",
           "is_favourite": "0",
           "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/product\/cache\/1\/thumbnail\/450x450\/9df78eab33525d08d6e5fb8d27136e95\/s\/h\/shrimps_20-30_fresh_per_kg_pakistan.jpg",
           "udstr4": "W",
           "selling_unit": "KG",
-          "available_stock": true
+          "available_stock": true,
+          "show_cart_btn": true,
+          "offer_text": "30%off",
+          "rating": "3.6"
         },
         {
           "pro_id": "63334",
@@ -244,14 +250,14 @@
           "normal_price": "31.00",
           "special_price": "0.00",
           "tamayaz_price": "0.00",
-          "packing": null,
+          "packing": "1KG",
           "short_description": "All prices are including VATThis item is Non-Cancelable &amp; Non-Returnable.",
           "is_favourite": "0",
           "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/product\/cache\/1\/thumbnail\/450x450\/9df78eab33525d08d6e5fb8d27136e95\/f\/r\/fresh-squid-20-30_front.jpg",
           "udstr4": "W",
           "selling_unit": "KG",
           "available_stock": true,
-          "is_custom_option_available": true
+          "show_cart_btn": true
         },
         {
           "pro_id": "25335",
@@ -261,7 +267,7 @@
           "normal_price": "17.00",
           "special_price": "0.00",
           "tamayaz_price": "0.00",
-          "packing": null,
+          "packing": "1x1ml",
           "is_manage_stock": false,
           "short_description": "All prices are including VATThis item is Non-Cancelable &amp; Non-Returnable.",
           "is_favourite": "0",
@@ -269,7 +275,8 @@
           "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/product\/cache\/1\/thumbnail\/450x450\/9df78eab33525d08d6e5fb8d27136e95\/b\/i\/bia-h-small-fish_front.jpg",
           "udstr4": "W",
           "selling_unit": "KG",
-          "available_stock": true
+          "available_stock": true,
+          "show_cart_btn": true
         },
         {
           "pro_id": "17641",
@@ -285,7 +292,8 @@
           "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/product\/cache\/1\/thumbnail\/450x450\/9df78eab33525d08d6e5fb8d27136e95\/s\/a\/salmon-fillet-portion-with-skin_front.jpg",
           "udstr4": "W",
           "selling_unit": "KG",
-          "available_stock": false
+          "available_stock": false,
+          "show_cart_btn": false
         },
         {
           "pro_id": "17535",
@@ -349,7 +357,7 @@
     {
       "type": 10,
       "title": "Recipes",
-      "viewMore": "View all",
+      "viewMore": "",
       "widgetData": [
         {
           "deeplink": "recipe/5",
@@ -525,7 +533,7 @@
     },
     {
       "type": 11,
-      "title": "Our Partner Restaurant",
+      "title": "Restaurant",
       "viewMore": "",
       "widgetData": [
         {
@@ -560,9 +568,9 @@
         },
         {
           "deeplink": "restaurant/11",
-          "name": "Potatoes Kitchen Pakistani Darbar",
+          "name": "Potatoes Kitchen",
           "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/Accordionp-potatoes.jpg",
-          "description": "Chinese, indian, Muglai, Turkish, Punjabi, Malyalyam"
+          "description": "Chinese,indian"
         }
       ]
     }
