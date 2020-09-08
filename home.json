@@ -151,12 +151,36 @@
           "api": "https://raw.githubusercontent.com/mohdfarhanakram/home_json/master/top_product"
         },
         {
-          "name": "Most Populalr",
+          "name": "Most Popular",
           "api": "https://raw.githubusercontent.com/mohdfarhanakram/home_json/master/most_popular"
         },
         {
           "name": "Recommendations",
           "api": "https://raw.githubusercontent.com/mohdfarhanakram/home_json/master/recommended"
+        }
+      ]
+    },
+    {
+      "type": 7,
+      "widgetData": [       
+        {
+          "name": "Most Popular",
+          "api": "https://raw.githubusercontent.com/mohdfarhanakram/home_json/master/most_popular"
+        },
+        {
+          "name": "Recommendations",
+          "api": "https://raw.githubusercontent.com/mohdfarhanakram/home_json/master/recommended"
+        }
+      ]
+    },
+
+    {
+      "type": 7,
+      "widgetData": [
+       
+        {
+          "name": "Most Popular",
+          "api": "https://raw.githubusercontent.com/mohdfarhanakram/home_json/master/most_popular"
         }
       ]
     },
