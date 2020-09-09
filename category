@@ -12,7 +12,7 @@
       "deeplink": "items/2770",
       "name": "Bread & Bakery",
       "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/bakery-online-Dubai.jpg",
-      "color_code": "F34604"
+      "color_code": "FAE953"
     },
     {
       "deeplink": "items/2765",
@@ -24,13 +24,13 @@
       "deeplink": "items/2771",
       "name": "Butchery & Seafood",
       "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/chicken-meat-fish-online.jpg",
-      "color_code": "F34604"
+      "color_code": "FAE953"
     },
     {
       "deeplink": "items/2768",
       "name": "Cleaning & Homecare",
       "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/cleaning-homecare-online-dubai.jpg",
-      "color_code": "F34604"
+      "color_code": "2376BC"
     },
     {
       "deeplink": "items/2783",
@@ -42,7 +42,7 @@
       "deeplink": "items/2765",
       "name": "Cereal",
       "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/bakery-online-Dubai.jpg",
-      "color_code": "F34604"
+      "color_code": "F78422"
     },
     {
       "deeplink": "items/2765",
