@@ -26,7 +26,7 @@
     ],
     "otherData": [
       {
-        "title": "Title",
+        "title": "",
         "option": [
           {
             "deeplink": "home",
@@ -46,7 +46,7 @@
         ]
       },
       {
-        "title": "Title",
+        "title": "",
         "option": [
           {
             "deeplink": "address_list",
