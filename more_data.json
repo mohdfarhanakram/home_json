@@ -36,7 +36,7 @@
           {
             "deeplink": "shopping_list",
             "name": "Shopping List",
-            "image": "https://firebasestorage.googleapis.com/v0/b/unioncoopios.appspot.com/o/home.png?alt=media&token=c2b1a490-95e3-4913-9a64-bdde0caad335"
+            "image": "https://firebasestorage.googleapis.com/v0/b/unioncoopios.appspot.com/o/catg.png?alt=media&token=f06a755e-ff45-4a01-ba07-83675db0ad0a"
           },
           {
             "deeplink": "order_history",
@@ -51,27 +51,27 @@
           {
             "deeplink": "address_list",
             "name": "Address List",
-            "image": "https://ucsmartapp.unioncoop.ae//data/promotions/Mobile-banner-AlBadaa--Eng.jpg"
+            "image": "https://firebasestorage.googleapis.com/v0/b/unioncoopios.appspot.com/o/home.png?alt=media&token=c2b1a490-95e3-4913-9a64-bdde0caad335"
           },
           {
             "deeplink": "setting",
             "name": "Setting",
-            "image": "https://cdn1.bbcode0.com/uploads/2020/9/1/67e69fd31f39aa18aeedf924ec33d2c2-full.png"
+            "image": "https://firebasestorage.googleapis.com/v0/b/unioncoopios.appspot.com/o/catg.png?alt=media&token=f06a755e-ff45-4a01-ba07-83675db0ad0a"
           },
           {
             "deeplink": "my_card",
             "name": "My Card",
-            "image": "https://cdn1.bbcode0.com/uploads/2020/9/1/67e69fd31f39aa18aeedf924ec33d2c2-full.png"
+            "image": "https://firebasestorage.googleapis.com/v0/b/unioncoopios.appspot.com/o/home.png?alt=media&token=c2b1a490-95e3-4913-9a64-bdde0caad335"
           },
           {
             "deeplink": "policy",
             "name": "Policy",
-            "image": "https://cdn1.bbcode0.com/uploads/2020/9/1/67e69fd31f39aa18aeedf924ec33d2c2-full.png"
+            "image": "https://firebasestorage.googleapis.com/v0/b/unioncoopios.appspot.com/o/catg.png?alt=media&token=f06a755e-ff45-4a01-ba07-83675db0ad0a"
           },
           {
             "deeplink": "term_condition",
             "name": "Term & Condition",
-            "image": "https://cdn1.bbcode0.com/uploads/2020/9/1/67e69fd31f39aa18aeedf924ec33d2c2-full.png"
+            "image": "https://firebasestorage.googleapis.com/v0/b/unioncoopios.appspot.com/o/home.png?alt=media&token=c2b1a490-95e3-4913-9a64-bdde0caad335"
           }
         ]
       }
