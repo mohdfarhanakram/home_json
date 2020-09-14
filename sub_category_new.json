@@ -55,14 +55,18 @@
     ],
     "feature_products": {
       "is_tab": true,
-      "section": [
+      "widgetData": [
         {
-          "title": "Top Product",
+          "name": "Top Product",
           "api": ""
         },
         {
-          "title": "Recommended",
+          "api": "Recommended",
           "api": ""
+        },
+        {
+          "name": "Most Popular",
+          "api": "https://raw.githubusercontent.com/mohdfarhanakram/home_json/master/most_popular"
         }
       ]
     }
