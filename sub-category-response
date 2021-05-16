@@ -1,0 +1,170 @@
+{
+  "code": "1",
+  "message": "Success",
+  "data": {
+    "blocks": [
+      {
+        "type": "11",
+        "title": "",
+        "viewMore": "",
+        "image": "",
+        "color_code": "",
+        "widgetData": [
+          {
+            "image": "https:\/\/uat.unioncoop.ae\/media\/wysiwyg\/MeatsSeaFood.png",
+            "deeplink": "category_id\/2906",
+            "size": "<small-1/medium-2/large-3>"
+          }
+        ]
+      },
+      {
+        "type": "25",
+        "title": "",
+        "viewMore": "",
+        "image": "",
+        "color_code": "",
+        "widgetData": [
+          {
+            "image": "https:\/\/uat.unioncoop.ae\/media\/wysiwyg\/Butter.png",
+            "deeplink": "category_id\/2906",
+            "name": "Butter"
+          },
+          {
+            "image": "https:\/\/uat.unioncoop.ae\/media\/wysiwyg\/FrozenFish.png",
+            "deeplink": "category_id\/2906",
+            "name": "FrozenFish"
+          },
+          {
+            "image": "https:\/\/uat.unioncoop.ae\/media\/wysiwyg\/Icecream.png",
+            "deeplink": "category_id\/2906",
+            "name": "Icecream"
+          },
+          {
+            "image": "https:\/\/uat.unioncoop.ae\/media\/wysiwyg\/MeatsSeaFood.png",
+            "deeplink": "category_id\/2906",
+            "name": "MeatsSeaFood"
+          },
+          {
+            "image": "https:\/\/uat.unioncoop.ae\/media\/wysiwyg\/UnionChicken.png",
+            "deeplink": "category_id\/2906",
+            "name": "UnionChicken"
+          },
+          {
+            "image": "https:\/\/uat.unioncoop.ae\/media\/wysiwyg\/Vegetables.png",
+            "deeplink": "category_id\/2906",
+            "name": "Vegetables"
+          }
+        ]
+      },
+      {
+        "type": "10",
+        "title": "Toys",
+        "viewMore": "category_id\/76",
+        "image": "",
+        "color_code": "",
+        "widgetData": [
+          {
+            "product_id": "35674",
+            "name": "Jawda Toys Traditional Small Teddy Bear",
+            "sku": "0691054504066",
+            "packing": "1 X 1",
+            "short_description": "All prices are including VAT",
+            "is_grocery_product": "1",
+            "qty": 3,
+            "min_qty": 1,
+            "available_stock": true,
+            "price": "20.00",
+            "stash_price": null,
+            "tamayaz_price": "0.00",
+            "is_favourite": false,
+            "selling_unit": "",
+            "udstr4": "NW",
+            "image": "https:\/\/uat.unioncoop.ae\/media\/catalog\/product\/cache\/1\/thumbnail\/450x450\/9df78eab33525d08d6e5fb8d27136e95\/j\/a\/jawda-toys-traditional-small-teddy-bear_hero.jpg",
+            "is_custom_option_available": false,
+            "custom_option": [
+              
+            ],
+            "custom_id": "",
+            "label": "",
+            "vendor_id": 0,
+            "vendor_name": "By Unioncoop",
+            "express": false,
+            "offer_percentage": "",
+            "cashback_amount": "0.00"
+          },
+          {
+            "product_id": "38067",
+            "name": "XING JIA Toys Burger Small Cutlery - 3+ Year",
+            "sku": "3000002001095",
+            "packing": null,
+            "short_description": "All prices are including VAT",
+            "is_grocery_product": "1",
+            "qty": 10,
+            "min_qty": 1,
+            "available_stock": true,
+            "price": "10.50",
+            "stash_price": null,
+            "tamayaz_price": "0.00",
+            "is_favourite": false,
+            "selling_unit": "",
+            "udstr4": "NW",
+            "image": "https:\/\/uat.unioncoop.ae\/media\/catalog\/product\/cache\/1\/thumbnail\/450x450\/9df78eab33525d08d6e5fb8d27136e95\/x\/i\/xing-jia-toys-burger-small-cutlery-3-year_hero.jpg",
+            "is_custom_option_available": false,
+            "custom_option": [
+              
+            ],
+            "custom_id": "",
+            "label": "",
+            "vendor_id": 0,
+            "vendor_name": "By Unioncoop",
+            "express": false,
+            "offer_percentage": "",
+            "cashback_amount": "0.00"
+          },
+          {
+            "product_id": "45201",
+            "name": "Gift Sold Ice Cream Shop",
+            "sku": "6003382151036",
+            "packing": "1 X 1",
+            "short_description": "All prices are including VAT",
+            "is_grocery_product": "1",
+            "qty": 3,
+            "min_qty": 1,
+            "available_stock": true,
+            "price": "75.75",
+            "stash_price": null,
+            "tamayaz_price": "0.00",
+            "is_favourite": false,
+            "selling_unit": "",
+            "udstr4": "NW",
+            "image": "https:\/\/uat.unioncoop.ae\/media\/catalog\/product\/cache\/1\/thumbnail\/450x450\/9df78eab33525d08d6e5fb8d27136e95\/g\/i\/gift-sold-ice-cream-shop_hero.jpg",
+            "is_custom_option_available": false,
+            "custom_option": [
+              
+            ],
+            "custom_id": "",
+            "label": "",
+            "vendor_id": 0,
+            "vendor_name": "By Unioncoop",
+            "express": false,
+            "offer_percentage": "",
+            "cashback_amount": "0.00"
+          }
+        ]
+      },
+      {
+        "type": "26",
+        "title": "",
+        "widgetData": [
+          {
+            "image": "https:\/\/uat.unioncoop.ae\/media\/wysiwyg\/Vegetables.png",
+            "deeplink": "category_id\/2906",
+            "name": "Vegetables",
+            "color_code": "D85F67",
+            
+          }
+        ]
+      }
+    ]
+  }
+}
